@@ -1,1 +1,24 @@
-HI
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UFT-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-with, initial-scale=1.0" />
+    <title>LEIM repository</title>
+  </head>
+  <body>
+    <section>
+      <nav>
+        <div class="logo">
+          <img src="./assets/logo.svg" alt="logo" />
+          <h1>LEIM repository</h1>
+        </div>
+        <div class="links">
+          <a href="#">ano1</a>
+          <a href="#">ano2</a>
+          <a href="#">ano3</a>
+        </div>
+      </nav>
+    </section>
+  </body>
+</html>
